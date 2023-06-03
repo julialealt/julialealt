@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, eu sou a Júlia! 👋
 
 <!--
 - 🔭 I’m currently working on ...
