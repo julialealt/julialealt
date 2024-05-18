@@ -1,7 +1,7 @@
 ## Hi, I'm Julia!👋
 
-- 👨🏻‍💻 Developer and Test Analyst at [goTest](https://gotest.com.br/)
-- 📚 Computer science student at Universidade Federal do Ceará (UFC)
+- 🏢 Developer and Test Analyst at [goTest](https://gotest.com.br/)
+- 👩🏻‍💻 Computer science student at Universidade Federal do Ceará (UFC)
 - ✨ Enthusiast of front-end and mobile development technologies and UI/UX design
 <!--🌱 I’m currently learning more about mobile development and UI/UX design-->
 
