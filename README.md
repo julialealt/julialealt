@@ -3,7 +3,7 @@
 - 🏢 Software Developer at [goTest](https://gotest.com.br/)
 - 👩🏻‍💻 Computer Science student at Universidade Federal do Ceará (UFC)
 - ✨ Enthusiast of front-end and mobile development technologies and UI/UX design
-- 🌱 Currently learning more about mobile development
+- 🌱 Currently learning more about front-end development
 
 ### Contact me
 <div> 
